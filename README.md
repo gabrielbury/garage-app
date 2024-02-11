@@ -21,6 +21,10 @@ Uses docker and docker compose concepts.
 ## Run
 
 ```bash
+npm i
+```
+
+```bash
 docker build -t garage-sqs-consumer:latest .
 ```
 
